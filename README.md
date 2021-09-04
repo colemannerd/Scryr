@@ -1,2 +1,2 @@
-# scryr
+# 🔮 Scryr
 Useful Architectural Diagrams
